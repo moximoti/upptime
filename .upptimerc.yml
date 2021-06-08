@@ -13,7 +13,7 @@ sites:
     url: https://dasquartier.org
   - name: Das Quartier CMS
     url: https://cms.dasquartier.org
-  - name: t10n Services: Dynamic Image CDN (Das Quartier)
+  - name: "t10n Services: Dynamic Image CDN (Das Quartier)"
     url: https://dq-images.t10n.de
 
 status-website:
