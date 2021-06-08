@@ -6,7 +6,7 @@ sites:
   - name: DSM 
     url: https://dsm.timovolkmann.de
   - name: Minio
-    url: https://minio.timovolkmann.de/minio/login
+    url: https://minio.timovolkmann.de/minio/health/live
   - name: Gitea
     url: https://git.timovolkmann.de
   - name: Das Quartier
