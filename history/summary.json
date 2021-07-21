@@ -4,10 +4,10 @@
     "url": "https://dsm.timovolkmann.de",
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1586,
@@ -15,7 +15,9 @@
     "timeWeek": 1613,
     "timeMonth": 1642,
     "timeYear": 1586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 1
+    }
   },
   {
     "name": "Minio",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/minio.timovolkmann.de",
     "slug": "minio",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 880,
     "timeDay": 1146,
     "timeWeek": 998,
