@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1590,
-    "timeDay": 1702,
-    "timeWeek": 1634,
-    "timeMonth": 1645,
-    "timeYear": 1590,
-    "dailyMinutesDown": {
-      "2021-07-21": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1580,
+    "timeDay": 1424,
+    "timeWeek": 1565,
+    "timeMonth": 1642,
+    "timeYear": 1580,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minio",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 880,
-    "timeDay": 1146,
-    "timeWeek": 998,
-    "timeMonth": 873,
-    "timeYear": 880,
+    "time": 878,
+    "timeDay": 770,
+    "timeWeek": 925,
+    "timeMonth": 880,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2021-06-09": 27,
       "2021-06-08": 63
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 801,
-    "timeDay": 1051,
-    "timeWeek": 937,
-    "timeMonth": 837,
-    "timeYear": 801,
+    "time": 798,
+    "timeDay": 630,
+    "timeWeek": 896,
+    "timeMonth": 835,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2021-06-09": 27
     }
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1019,
-    "timeWeek": 1066,
-    "timeMonth": 988,
-    "timeYear": 1018,
+    "time": 1016,
+    "timeDay": 939,
+    "timeWeek": 1033,
+    "timeMonth": 987,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 1146,
-    "timeWeek": 1023,
-    "timeMonth": 860,
-    "timeYear": 854,
+    "time": 851,
+    "timeDay": 675,
+    "timeWeek": 986,
+    "timeMonth": 855,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 179,
-    "timeWeek": 144,
+    "time": 541,
+    "timeDay": 135,
+    "timeWeek": 134,
     "timeMonth": 145,
-    "timeYear": 549,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   }
 ]
