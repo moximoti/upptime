@@ -1,7 +1,7 @@
 url: https://minio.timovolkmann.de/minio/health/live
 status: up
 code: 200
-responseTime: 568
-lastUpdated: 2021-08-05T23:15:23.463Z
+responseTime: 741
+lastUpdated: 2021-08-06T23:14:51.397Z
 startTime: Tue Jun 08 2021 20:10:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
