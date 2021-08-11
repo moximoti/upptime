@@ -4,10 +4,10 @@
     "url": "https://dsm.timovolkmann.de",
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1546,
@@ -15,7 +15,9 @@
     "timeWeek": 1438,
     "timeMonth": 1507,
     "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-11": 1
+    }
   },
   {
     "name": "Minio",
