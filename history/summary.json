@@ -4,10 +4,10 @@
     "url": "https://dsm.timovolkmann.de",
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1557,
@@ -15,7 +15,9 @@
     "timeWeek": 1516,
     "timeMonth": 1529,
     "timeYear": 1557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 2
+    }
   },
   {
     "name": "Minio",
@@ -44,9 +46,9 @@
     "url": "https://git.timovolkmann.de",
     "icon": "https://favicons.githubusercontent.com/git.timovolkmann.de",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
@@ -56,6 +58,7 @@
     "timeMonth": 802,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2021-08-12": 0,
       "2021-08-09": 19,
       "2021-06-09": 27
     }
