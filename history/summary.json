@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.40%",
+    "uptimeDay": "55.16%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "99.40%",
     "time": 1537,
     "timeDay": 1246,
     "timeWeek": 1473,
     "timeMonth": 1468,
     "timeYear": 1537,
     "dailyMinutesDown": {
-      "2021-08-22": 2
+      "2021-08-22": 646
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://minio.timovolkmann.de/minio/health/live",
     "icon": "https://favicons.githubusercontent.com/minio.timovolkmann.de",
     "slug": "minio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
@@ -36,6 +36,7 @@
     "timeMonth": 882,
     "timeYear": 879,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-08-09": 20,
       "2021-06-09": 27,
       "2021-06-08": 63
@@ -47,18 +48,18 @@
     "icon": "https://favicons.githubusercontent.com/git.timovolkmann.de",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.36%",
+    "uptimeDay": "55.26%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.36%",
     "time": 1042,
     "timeDay": 660,
     "timeWeek": 804,
     "timeMonth": 1406,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2021-08-22": 0,
+      "2021-08-22": 644,
       "2021-08-09": 19,
       "2021-06-09": 27
     }
@@ -68,9 +69,9 @@
     "url": "https://dasquartier.org",
     "icon": "https://favicons.githubusercontent.com/dasquartier.org",
     "slug": "das-quartier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,16 +80,18 @@
     "timeWeek": 906,
     "timeMonth": 992,
     "timeYear": 1007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "Das Quartier CMS",
     "url": "https://cms.dasquartier.org",
     "icon": "https://favicons.githubusercontent.com/cms.dasquartier.org",
     "slug": "das-quartier-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +100,9 @@
     "timeWeek": 776,
     "timeMonth": 848,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "t10n Services: Dynamic Image CDN (Das Quartier)",
