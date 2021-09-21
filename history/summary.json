@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/dsm.timovolkmann.de",
     "slug": "dsm",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 1535,
     "timeDay": 1268,
     "timeWeek": 1430,
@@ -74,9 +74,9 @@
     "url": "https://dasquartier.org",
     "icon": "https://favicons.githubusercontent.com/dasquartier.org",
     "slug": "das-quartier",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
@@ -86,6 +86,7 @@
     "timeMonth": 1102,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2021-09-21": 0,
       "2021-08-29": 30,
       "2021-08-22": 28
     }
