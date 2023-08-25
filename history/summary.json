@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsm.timovolkmann.de.ico",
     "slug": "dsm",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 71,
+      "2023-08-25": 72,
+      "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -379,8 +380,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.timovolkmann.de.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "15.69%",
+    "uptime": "15.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 71,
+      "2023-08-25": 72,
+      "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -763,8 +764,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
-    "timeDay": 1099,
-    "timeWeek": 1262,
+    "timeDay": 730,
+    "timeWeek": 1287,
     "timeMonth": 916,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {}
   },
   {
@@ -796,11 +796,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 841,
-    "timeWeek": 1075,
-    "timeMonth": 906,
-    "timeYear": 867,
+    "time": 861,
+    "timeDay": 1209,
+    "timeWeek": 1114,
+    "timeMonth": 918,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   },
   {
@@ -815,9 +815,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
-    "timeDay": 692,
-    "timeWeek": 1205,
-    "timeMonth": 1017,
+    "timeDay": 800,
+    "timeWeek": 1166,
+    "timeMonth": 1011,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -833,8 +833,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 154,
-    "timeWeek": 245,
+    "timeDay": 180,
+    "timeWeek": 248,
     "timeMonth": 196,
     "timeYear": 202,
     "dailyMinutesDown": {}
