@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsm.timovolkmann.de.ico",
     "slug": "dsm",
     "status": "down",
-    "uptime": "13.94%",
+    "uptime": "13.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 73,
+      "2023-08-31": 73,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -379,8 +380,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.timovolkmann.de.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "15.58%",
+    "uptime": "15.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 73,
+      "2023-08-31": 73,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -763,8 +764,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 1219,
-    "timeWeek": 964,
-    "timeMonth": 936,
+    "timeDay": 664,
+    "timeWeek": 902,
+    "timeMonth": 934,
     "timeYear": 963,
     "dailyMinutesDown": {}
   },
@@ -796,11 +796,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 890,
-    "timeWeek": 957,
-    "timeMonth": 948,
-    "timeYear": 872,
+    "time": 858,
+    "timeDay": 744,
+    "timeWeek": 943,
+    "timeMonth": 925,
+    "timeYear": 873,
     "dailyMinutesDown": {}
   },
   {
@@ -814,11 +814,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 1036,
-    "timeWeek": 917,
-    "timeMonth": 1018,
-    "timeYear": 967,
+    "time": 928,
+    "timeDay": 937,
+    "timeWeek": 952,
+    "timeMonth": 1015,
+    "timeYear": 968,
     "dailyMinutesDown": {}
   },
   {
@@ -833,9 +833,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 200,
-    "timeWeek": 161,
-    "timeMonth": 201,
+    "timeDay": 221,
+    "timeWeek": 170,
+    "timeMonth": 202,
     "timeYear": 201,
     "dailyMinutesDown": {}
   }
