@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 1071,
+      "2023-12-13": 1075,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 1071,
+      "2023-12-13": 1075,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -810,19 +810,19 @@
     "url": "https://cms.dasquartier.org",
     "icon": "https://icons.duckduckgo.com/ip3/cms.dasquartier.org.ico",
     "slug": "das-quartier-cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 965,
-    "timeDay": 842,
-    "timeWeek": 733,
-    "timeMonth": 873,
-    "timeYear": 987,
+    "timeDay": 779,
+    "timeWeek": 731,
+    "timeMonth": 868,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 5
     }
   },
   {
