@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 1368,
+      "2024-01-30": 1395,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 1368,
+      "2024-01-30": 1395,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -779,9 +779,9 @@
     "uptimeMonth": "95.16%",
     "uptimeYear": "99.58%",
     "time": 852,
-    "timeDay": 411,
-    "timeWeek": 458,
-    "timeMonth": 477,
+    "timeDay": 525,
+    "timeWeek": 479,
+    "timeMonth": 478,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2024-01-26": 655,
@@ -802,9 +802,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 602,
-    "timeWeek": 613,
-    "timeMonth": 662,
+    "timeDay": 693,
+    "timeWeek": 622,
+    "timeMonth": 663,
     "timeYear": 817,
     "dailyMinutesDown": {}
   },
@@ -820,9 +820,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 956,
-    "timeDay": 768,
+    "timeDay": 972,
     "timeWeek": 881,
-    "timeMonth": 839,
+    "timeMonth": 848,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2024-01-26": 16,
@@ -835,19 +835,19 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 192,
-    "timeDay": 178,
+    "time": 191,
+    "timeDay": 177,
     "timeWeek": 179,
     "timeMonth": 178,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-01-30": 152
+      "2024-01-30": 146
     }
   }
 ]
