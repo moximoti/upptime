@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1240,
+      "2024-01-31": 1246,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1240,
+      "2024-01-31": 1246,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -835,19 +835,19 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "69.21%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "69.63%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.89%",
     "time": 189,
-    "timeDay": 163,
+    "timeDay": 164,
     "timeWeek": 170,
     "timeMonth": 171,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-01-31": 398,
+      "2024-01-31": 392,
       "2024-01-30": 191
     }
   }
