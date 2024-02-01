@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1435,
+      "2024-02-01": 32,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -379,8 +380,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1435,
+      "2024-02-01": 32,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -763,8 +764,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -772,18 +772,19 @@
     "url": "https://git.timovolkmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/git.timovolkmann.de.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.17%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "79.53%",
     "uptimeMonth": "95.16%",
     "uptimeYear": "99.58%",
-    "time": 849,
-    "timeDay": 459,
-    "timeWeek": 488,
-    "timeMonth": 478,
-    "timeYear": 827,
+    "time": 848,
+    "timeDay": 443,
+    "timeWeek": 478,
+    "timeMonth": 476,
+    "timeYear": 825,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2024-01-26": 655,
       "2024-01-25": 1440,
       "2024-01-24": 24,
@@ -835,11 +836,11 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "66.95%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "98.49%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "66.96%",
+    "uptimeWeek": "93.08%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "99.87%",
     "time": 188,
     "timeDay": 160,
@@ -847,7 +848,8 @@
     "timeMonth": 170,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-01-31": 471,
+      "2024-02-01": 32,
+      "2024-01-31": 476,
       "2024-01-30": 191
     }
   }
