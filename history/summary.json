@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 581,
+      "2024-02-01": 587,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 581,
+      "2024-02-01": 587,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -774,9 +774,9 @@
     "slug": "gitea",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "84.34%",
+    "uptimeDay": "83.92%",
     "uptimeWeek": "82.74%",
-    "uptimeMonth": "94.65%",
+    "uptimeMonth": "94.63%",
     "uptimeYear": "99.54%",
     "time": 848,
     "timeDay": 453,
@@ -784,7 +784,7 @@
     "timeMonth": 476,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-02-01": 226,
+      "2024-02-01": 232,
       "2024-01-26": 655,
       "2024-01-25": 1440,
       "2024-01-24": 24,
@@ -836,11 +836,11 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "71.39%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "70.97%",
+    "uptimeWeek": "91.83%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.84%",
     "time": 186,
     "timeDay": 161,
@@ -848,7 +848,7 @@
     "timeMonth": 168,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-02-01": 151,
+      "2024-02-01": 157,
       "2024-01-31": 476,
       "2024-01-30": 191
     }
