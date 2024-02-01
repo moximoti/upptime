@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 345,
+      "2024-02-01": 351,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 345,
+      "2024-02-01": 351,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -775,7 +775,7 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "95.50%",
-    "uptimeWeek": "82.00%",
+    "uptimeWeek": "82.06%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "99.57%",
     "time": 848,
@@ -816,9 +816,9 @@
     "slug": "das-quartier-cms",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 956,
     "timeDay": 821,
@@ -826,7 +826,6 @@
     "timeMonth": 851,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2024-02-01": 6,
       "2024-01-26": 16,
       "2024-01-22": 47,
       "2024-01-09": 20
@@ -837,11 +836,11 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "72.78%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "73.61%",
+    "uptimeWeek": "92.56%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "99.86%",
     "time": 187,
     "timeDay": 160,
@@ -849,7 +848,7 @@
     "timeMonth": 169,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-02-01": 90,
+      "2024-02-01": 84,
       "2024-01-31": 476,
       "2024-01-30": 191
     }
