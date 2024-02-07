@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-07": 48,
+      "2024-02-07": 72,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-07": 48,
+      "2024-02-07": 72,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
@@ -838,7 +838,7 @@
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "36.58%",
+    "uptimeDay": "38.22%",
     "uptimeWeek": "57.99%",
     "uptimeMonth": "90.33%",
     "uptimeYear": "99.19%",
