@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-16": 1365,
+      "2024-02-17": 33,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -379,8 +380,7 @@
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440
+      "2023-02-18": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-16": 1365,
+      "2024-02-17": 33,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -763,8 +764,7 @@
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440
+      "2023-02-18": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "94.56%",
     "uptimeYear": "99.53%",
     "time": 838,
-    "timeDay": 517,
-    "timeWeek": 523,
-    "timeMonth": 524,
-    "timeYear": 810,
+    "timeDay": 642,
+    "timeWeek": 555,
+    "timeMonth": 527,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2024-02-01": 262,
       "2024-01-26": 655,
@@ -803,10 +803,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 822,
-    "timeDay": 656,
-    "timeWeek": 692,
-    "timeMonth": 697,
-    "timeYear": 812,
+    "timeDay": 882,
+    "timeWeek": 726,
+    "timeMonth": 706,
+    "timeYear": 813,
     "dailyMinutesDown": {}
   },
   {
@@ -820,11 +820,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 975,
-    "timeDay": 920,
-    "timeWeek": 989,
-    "timeMonth": 1139,
-    "timeYear": 981,
+    "time": 977,
+    "timeDay": 2545,
+    "timeWeek": 1217,
+    "timeMonth": 1185,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-01-26": 16,
       "2024-01-22": 47,
@@ -836,19 +836,20 @@
     "url": "https://dq-images.t10n.de",
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "23.86%",
-    "uptimeWeek": "38.50%",
-    "uptimeMonth": "85.85%",
-    "uptimeYear": "98.82%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "19.69%",
+    "uptimeWeek": "37.43%",
+    "uptimeMonth": "85.60%",
+    "uptimeYear": "98.80%",
     "time": 177,
-    "timeDay": 164,
+    "timeDay": 163,
     "timeWeek": 166,
     "timeMonth": 170,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-02-16": 1050,
+      "2024-02-17": 33,
+      "2024-02-16": 1125,
       "2024-02-15": 1183,
       "2024-02-14": 1208,
       "2024-02-13": 1047,
