@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-07": 991,
+      "2024-07-08": 86,
+      "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
@@ -379,8 +380,7 @@
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
-      "2023-07-10": 1440,
-      "2023-07-09": 1440
+      "2023-07-10": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.timovolkmann.de.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "11.25%",
+    "uptime": "11.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-07": 991,
+      "2024-07-08": 86,
+      "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
@@ -763,8 +764,7 @@
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
-      "2023-07-10": 1440,
-      "2023-07-09": 1440
+      "2023-07-10": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 742,
-    "timeDay": 447,
+    "time": 740,
+    "timeDay": 536,
     "timeWeek": 573,
     "timeMonth": 556,
-    "timeYear": 649,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2024-02-01": 262,
       "2024-01-26": 655,
@@ -798,18 +798,16 @@
     "slug": "das-quartier",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 791,
-    "timeWeek": 765,
-    "timeMonth": 755,
-    "timeYear": 756,
-    "dailyMinutesDown": {
-      "2024-07-07": 11
-    }
+    "time": 790,
+    "timeDay": 753,
+    "timeWeek": 750,
+    "timeMonth": 754,
+    "timeYear": 755,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Das Quartier CMS",
@@ -822,10 +820,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1016,
-    "timeDay": 793,
-    "timeWeek": 1010,
-    "timeMonth": 1288,
+    "time": 1015,
+    "timeDay": 822,
+    "timeWeek": 1014,
+    "timeMonth": 1283,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2024-06-20": 18,
@@ -840,18 +838,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "87.15%",
+    "uptime": "87.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.41%",
+    "uptimeYear": "60.31%",
     "time": 173,
-    "timeDay": 140,
-    "timeWeek": 172,
-    "timeMonth": 164,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 165,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-07-07": 992,
+      "2024-07-08": 86,
+      "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
