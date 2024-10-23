@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 106,
+      "2024-10-23": 104,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -379,8 +380,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 106,
+      "2024-10-23": 104,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -763,8 +764,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 650,
-    "timeDay": 638,
-    "timeWeek": 616,
-    "timeMonth": 643,
+    "time": 649,
+    "timeDay": 459,
+    "timeWeek": 561,
+    "timeMonth": 632,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-02-01": 262,
@@ -802,10 +802,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
-    "timeDay": 740,
-    "timeWeek": 754,
-    "timeMonth": 830,
-    "timeYear": 739,
+    "timeDay": 717,
+    "timeWeek": 731,
+    "timeMonth": 827,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   },
   {
@@ -820,10 +820,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1086,
-    "timeDay": 1103,
-    "timeWeek": 1074,
-    "timeMonth": 1768,
-    "timeYear": 1141,
+    "timeDay": 913,
+    "timeWeek": 1025,
+    "timeMonth": 1737,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2024-06-20": 18,
       "2024-01-26": 16,
@@ -837,18 +837,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "79.62%",
+    "uptime": "79.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.26%",
+    "uptimeYear": "30.99%",
     "time": 171,
-    "timeDay": 173,
-    "timeWeek": 170,
-    "timeMonth": 181,
+    "timeDay": 89,
+    "timeWeek": 165,
+    "timeMonth": 177,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-10-22": 106,
+      "2024-10-23": 104,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
