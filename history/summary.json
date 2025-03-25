@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsm.timovolkmann.de.ico",
     "slug": "dsm",
     "status": "down",
-    "uptime": "8.18%",
+    "uptime": "8.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 115,
+      "2025-03-25": 113,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -379,8 +380,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.timovolkmann.de.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "9.14%",
+    "uptime": "9.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 115,
+      "2025-03-25": 113,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -763,8 +764,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
-    "timeDay": 612,
-    "timeWeek": 573,
-    "timeMonth": 641,
+    "timeDay": 678,
+    "timeWeek": 575,
+    "timeMonth": 637,
     "timeYear": 609,
     "dailyMinutesDown": {}
   },
@@ -796,10 +796,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 663,
-    "timeWeek": 626,
-    "timeMonth": 739,
+    "time": 735,
+    "timeDay": 667,
+    "timeWeek": 638,
+    "timeMonth": 736,
     "timeYear": 751,
     "dailyMinutesDown": {}
   },
@@ -809,18 +809,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.dasquartier.org.ico",
     "slug": "das-quartier-cms",
     "status": "down",
-    "uptime": "99.86%",
+    "uptime": "99.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.71%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "99.55%",
+    "uptimeWeek": "62.45%",
+    "uptimeMonth": "91.36%",
+    "uptimeYear": "99.28%",
     "time": 1145,
-    "timeDay": 469,
-    "timeWeek": 708,
-    "timeMonth": 954,
-    "timeYear": 1188,
+    "timeDay": 490,
+    "timeWeek": 674,
+    "timeMonth": 933,
+    "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-03-24": 115,
+      "2025-03-25": 113,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 792,
       "2024-06-20": 18
@@ -832,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "70.82%",
+    "uptime": "70.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 181,
-    "timeDay": 154,
-    "timeWeek": 144,
-    "timeMonth": 178,
+    "timeDay": 211,
+    "timeWeek": 152,
+    "timeMonth": 177,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-03-24": 115,
+      "2025-03-25": 113,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -1206,8 +1208,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   }
 ]
