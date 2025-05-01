@@ -8,7 +8,7 @@
     "uptime": "7.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 298,
+      "2025-05-01": 127,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -379,8 +380,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.timovolkmann.de.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "8.90%",
+    "uptime": "8.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 298,
+      "2025-05-01": 127,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -763,8 +764,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -773,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.timovolkmann.de.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 617,
-    "timeWeek": 651,
-    "timeMonth": 654,
+    "timeDay": 644,
+    "timeWeek": 664,
+    "timeMonth": 646,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
@@ -792,18 +792,16 @@
     "slug": "das-quartier",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 604,
-    "timeWeek": 705,
-    "timeMonth": 739,
+    "time": 739,
+    "timeDay": 706,
+    "timeWeek": 739,
+    "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {
-      "2025-04-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Das Quartier CMS",
@@ -812,17 +810,16 @@
     "slug": "das-quartier-cms",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "87.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.09%",
     "uptimeYear": "96.86%",
-    "time": 1157,
-    "timeDay": 884,
-    "timeWeek": 1024,
-    "timeMonth": 1017,
+    "time": 1158,
+    "timeDay": 901,
+    "timeWeek": 1027,
+    "timeMonth": 1046,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2025-04-30": 7,
       "2025-04-02": 1276,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -844,18 +841,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "68.97%",
+    "uptime": "68.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 184,
-    "timeDay": 169,
-    "timeWeek": 198,
-    "timeMonth": 199,
+    "timeDay": 164,
+    "timeWeek": 195,
+    "timeMonth": 197,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-30": 298,
+      "2025-05-01": 127,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -1218,8 +1216,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
