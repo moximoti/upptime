@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-20": 118,
+      "2025-08-21": 117,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -379,8 +380,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-20": 118,
+      "2025-08-21": 117,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -763,8 +764,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 762,
-    "timeWeek": 635,
-    "timeMonth": 668,
-    "timeYear": 633,
+    "time": 622,
+    "timeDay": 720,
+    "timeWeek": 659,
+    "timeMonth": 665,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2025-06-05": 18
     }
@@ -798,10 +798,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 1684,
-    "timeWeek": 821,
-    "timeMonth": 775,
+    "time": 750,
+    "timeDay": 862,
+    "timeWeek": 850,
+    "timeMonth": 774,
     "timeYear": 743,
     "dailyMinutesDown": {}
   },
@@ -817,10 +817,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.86%",
     "time": 1143,
-    "timeDay": 1126,
-    "timeWeek": 1055,
-    "timeMonth": 1097,
-    "timeYear": 1136,
+    "timeDay": 1083,
+    "timeWeek": 1084,
+    "timeMonth": 1094,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2025-05-02": 20,
       "2025-04-02": 1276,
@@ -843,18 +843,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "63.94%",
+    "uptime": "63.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 189,
-    "timeDay": 370,
-    "timeWeek": 217,
-    "timeMonth": 225,
-    "timeYear": 197,
+    "time": 190,
+    "timeDay": 632,
+    "timeWeek": 283,
+    "timeMonth": 237,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-08-20": 118,
+      "2025-08-21": 117,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -1217,8 +1218,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   }
 ]
