@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-21": 120,
+      "2025-09-22": 120,
+      "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -379,8 +380,7 @@
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
-      "2024-09-23": 1440,
-      "2024-09-22": 1440
+      "2024-09-23": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-21": 120,
+      "2025-09-22": 120,
+      "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -763,8 +764,7 @@
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
-      "2024-09-23": 1440,
-      "2024-09-22": 1440
+      "2024-09-23": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 829,
-    "timeWeek": 654,
-    "timeMonth": 767,
-    "timeYear": 647,
+    "timeDay": 1046,
+    "timeWeek": 684,
+    "timeMonth": 773,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-06-05": 18
     }
@@ -798,11 +798,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 879,
-    "timeWeek": 763,
-    "timeMonth": 750,
-    "timeYear": 740,
+    "time": 750,
+    "timeDay": 912,
+    "timeWeek": 774,
+    "timeMonth": 751,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   },
   {
@@ -816,11 +816,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.86%",
-    "time": 1140,
-    "timeDay": 1253,
-    "timeWeek": 1091,
-    "timeMonth": 1030,
-    "timeYear": 1126,
+    "time": 1141,
+    "timeDay": 1229,
+    "timeWeek": 1071,
+    "timeMonth": 1029,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-05-02": 20,
       "2025-04-02": 1276,
@@ -843,18 +843,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "62.63%",
+    "uptime": "62.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 194,
-    "timeDay": 234,
-    "timeWeek": 196,
-    "timeMonth": 226,
+    "timeDay": 136,
+    "timeWeek": 185,
+    "timeMonth": 211,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-09-21": 120,
+      "2025-09-22": 120,
+      "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -1217,8 +1218,7 @@
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
-      "2024-09-23": 1440,
-      "2024-09-22": 1440
+      "2024-09-23": 1440
     }
   }
 ]
