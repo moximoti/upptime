@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 596,
+      "2025-10-17": 651,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 596,
+      "2025-10-17": 652,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -772,11 +772,11 @@
     "url": "https://git.timovolkmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/git.timovolkmann.de.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
     "timeDay": 662,
@@ -784,7 +784,7 @@
     "timeMonth": 678,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2025-10-17": 5,
+      "2025-10-17": 0,
       "2025-06-05": 18
     }
   },
@@ -844,7 +844,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "61.60%",
+    "uptime": "61.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -855,7 +855,7 @@
     "timeMonth": 198,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-10-17": 596,
+      "2025-10-17": 652,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
