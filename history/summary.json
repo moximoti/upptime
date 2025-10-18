@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 428,
+      "2025-10-18": 476,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 428,
+      "2025-10-18": 476,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -772,19 +772,19 @@
     "url": "https://git.timovolkmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/git.timovolkmann.de.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 764,
+    "time": 765,
     "timeDay": 4424,
     "timeWeek": 3449,
     "timeMonth": 2182,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-10-18": 57,
+      "2025-10-18": 46,
       "2025-10-17": 53,
       "2025-06-05": 18
     }
@@ -856,7 +856,7 @@
     "timeMonth": 201,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-10-18": 428,
+      "2025-10-18": 476,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
