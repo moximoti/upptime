@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 1217,
+      "2025-10-27": 1232,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 1217,
+      "2025-10-27": 1232,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -795,19 +795,19 @@
     "url": "https://dasquartier.org",
     "icon": "https://icons.duckduckgo.com/ip3/dasquartier.org.ico",
     "slug": "das-quartier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 486,
-    "timeWeek": 675,
-    "timeMonth": 763,
-    "timeYear": 736,
+    "timeDay": 554,
+    "timeWeek": 668,
+    "timeMonth": 758,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 15
     }
   },
   {
@@ -860,7 +860,7 @@
     "timeMonth": 192,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-10-27": 1217,
+      "2025-10-27": 1232,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
