@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 698,
+      "2025-11-18": 705,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 698,
+      "2025-11-18": 705,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -781,7 +781,7 @@
     "time": 959,
     "timeDay": 538,
     "timeWeek": 671,
-    "timeMonth": 2570,
+    "timeMonth": 2601,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-10-19": 106,
@@ -795,19 +795,19 @@
     "url": "https://dasquartier.org",
     "icon": "https://icons.duckduckgo.com/ip3/dasquartier.org.ico",
     "slug": "das-quartier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 381,
-    "timeWeek": 677,
-    "timeMonth": 704,
+    "timeDay": 574,
+    "timeWeek": 708,
+    "timeMonth": 712,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   },
   {
@@ -861,7 +861,7 @@
     "timeMonth": 195,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2025-11-18": 699,
+      "2025-11-18": 705,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
