@@ -1,7 +1,7 @@
 url: https://cms.dasquartier.org
-status: up
-code: 200
-responseTime: 999
-lastUpdated: 2025-11-18T12:29:24.628Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2025-11-18T13:07:11.249Z
 startTime: 2021-06-08T20:10:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
