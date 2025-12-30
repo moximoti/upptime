@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 144,
+      "2025-12-30": 129,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -379,8 +380,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 144,
+      "2025-12-30": 129,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -763,8 +764,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 965,
-    "timeDay": 838,
-    "timeWeek": 682,
-    "timeMonth": 698,
+    "time": 966,
+    "timeDay": 851,
+    "timeWeek": 679,
+    "timeMonth": 709,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-11-20": 46,
@@ -803,10 +803,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 746,
-    "timeDay": 808,
-    "timeWeek": 748,
-    "timeMonth": 780,
+    "time": 747,
+    "timeDay": 948,
+    "timeWeek": 755,
+    "timeMonth": 785,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-11-18": 161
@@ -824,9 +824,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "96.82%",
     "time": 1131,
-    "timeDay": 1321,
-    "timeWeek": 1059,
-    "timeMonth": 1088,
+    "timeDay": 1341,
+    "timeWeek": 1050,
+    "timeMonth": 1102,
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-12-03": 21,
@@ -854,18 +854,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "58.91%",
+    "uptime": "58.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 199,
-    "timeDay": 204,
-    "timeWeek": 170,
-    "timeMonth": 189,
+    "timeDay": 209,
+    "timeWeek": 184,
+    "timeMonth": 190,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-12-29": 144,
+      "2025-12-30": 129,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -1228,8 +1229,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   }
 ]
