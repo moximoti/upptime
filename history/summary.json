@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 213,
+      "2026-05-03": 235,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -379,8 +380,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 213,
+      "2026-05-03": 235,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -763,8 +764,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 973,
-    "timeDay": 530,
-    "timeWeek": 644,
-    "timeMonth": 647,
+    "timeDay": 751,
+    "timeWeek": 645,
+    "timeMonth": 655,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-11-20": 46,
@@ -803,10 +803,10 @@
     "uptimeWeek": "98.31%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.94%",
-    "time": 747,
-    "timeDay": 682,
-    "timeWeek": 720,
-    "timeMonth": 701,
+    "time": 748,
+    "timeDay": 820,
+    "timeWeek": 730,
+    "timeMonth": 707,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2026-04-30": 148,
@@ -824,12 +824,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 1067,
-    "timeDay": 988,
-    "timeWeek": 1008,
-    "timeMonth": 1009,
-    "timeYear": 1056,
+    "timeDay": 1270,
+    "timeWeek": 1026,
+    "timeMonth": 1023,
+    "timeYear": 1057,
     "dailyMinutesDown": {
       "2026-04-29": 142,
       "2026-04-12": 36,
@@ -846,18 +846,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "54.82%",
+    "uptime": "54.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 203,
-    "timeDay": 172,
-    "timeWeek": 207,
-    "timeMonth": 191,
+    "timeDay": 230,
+    "timeWeek": 203,
+    "timeMonth": 193,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-05-02": 213,
+      "2026-05-03": 235,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1220,8 +1221,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   }
 ]
