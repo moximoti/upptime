@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 285,
+      "2026-06-29": 685,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 285,
+      "2026-06-29": 685,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -818,17 +818,17 @@
     "url": "https://cms.dasquartier.org",
     "icon": "https://icons.duckduckgo.com/ip3/cms.dasquartier.org.ico",
     "slug": "das-quartier-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1128,
-    "timeDay": 1320,
-    "timeWeek": 985,
-    "timeMonth": 2264,
-    "timeYear": 1158,
+    "time": 1127,
+    "timeDay": 758,
+    "timeWeek": 887,
+    "timeMonth": 2199,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2025-10-26": 35,
       "2025-10-31": 17,
@@ -836,7 +836,8 @@
       "2025-12-03": 21,
       "2026-04-11": 48,
       "2026-04-12": 36,
-      "2026-04-29": 142
+      "2026-04-29": 142,
+      "2026-06-29": 0
     }
   },
   {
@@ -845,7 +846,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "53.10%",
+    "uptime": "53.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -856,7 +857,7 @@
     "timeMonth": 38,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2026-06-29": 285,
+      "2026-06-29": 686,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
