@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 256,
+      "2026-09-10": 253,
+      "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -379,8 +380,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
-      "2025-09-11": 1440,
-      "2025-09-10": 1440
+      "2025-09-11": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 256,
+      "2026-09-10": 253,
+      "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -763,8 +764,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
-      "2025-09-11": 1440,
-      "2025-09-10": 1440
+      "2025-09-11": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 965,
-    "timeDay": 764,
-    "timeWeek": 662,
-    "timeMonth": 602,
+    "timeDay": 609,
+    "timeWeek": 650,
+    "timeMonth": 606,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-10-17": 53,
@@ -803,9 +803,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 748,
-    "timeDay": 798,
-    "timeWeek": 755,
-    "timeMonth": 728,
+    "timeDay": 711,
+    "timeWeek": 723,
+    "timeMonth": 731,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2025-11-18": 161,
@@ -825,9 +825,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
     "time": 1099,
-    "timeDay": 1283,
-    "timeWeek": 1207,
-    "timeMonth": 1107,
+    "timeDay": 1044,
+    "timeWeek": 1143,
+    "timeMonth": 1115,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-10-26": 35,
@@ -851,18 +851,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dq-images.t10n.de.ico",
     "slug": "t10n-services-dynamic-image-cdn-das-quartier",
     "status": "down",
-    "uptime": "51.10%",
+    "uptime": "51.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 84,
-    "timeWeek": 65,
+    "timeDay": 42,
+    "timeWeek": 62,
     "timeMonth": 50,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-09-09": 256,
+      "2026-09-10": 253,
+      "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -1225,8 +1226,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
-      "2025-09-11": 1440,
-      "2025-09-10": 1440
+      "2025-09-11": 1440
     }
   }
 ]
